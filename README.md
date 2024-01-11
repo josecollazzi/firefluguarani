@@ -1,5 +1,5 @@
 # firefluguarani
-A tutorial of how to implement support Guarani in flutter with firebase
+A tutorial of how to support Guarani language in flutter with firebase ui
 
 In the material app
 
